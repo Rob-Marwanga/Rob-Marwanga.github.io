@@ -1,0 +1,29 @@
+.lead {
+color: blue;
+font-size: 42pt
+}
+
+.jumbotron {
+  background-image: url(zanzibarbeach.jpg);
+  background-size: cover;
+  min-height: 600px;
+}
+
+.carousel-inner {
+  height: 550px;
+}
+
+.display-2 {
+  font-family: 'Great Vibes', cursive;
+  font-weight: 400;
+}
+
+.col-lg h1 {
+  font-family: 'Great Vibes';
+  font-weight: 400;
+}
+
+h4 {
+  font-family: 'Great Vibes';
+  font-weight: 400;
+}
